@@ -47,10 +47,6 @@
   <img src="https://cdn.simpleicons.org/github" alt="github" width="40" height="40"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/docker" alt="docker" width="40" height="40"/>
-</a>
-
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/jupyter" alt="jupyter" width="40" height="40"/>
 </a>
@@ -97,4 +93,8 @@
 
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/apachehive" alt="apache hive" width="40" height="40"/>
-</a></p>
+</a>
+<a href="https://aistudio.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Google_AI_Studio_icon_%28May_2026%29.svg" alt="Google AI Studio" width="40" height="40"/>
+</a>
+</p>
