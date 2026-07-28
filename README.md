@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthgargg&label=Profile%20views&color=0e75b6&style=flat" alt="parthgargg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthgargg" alt="parthgargg" /></a> </p>
 
-- 🔭 I’m currently working on [FitHub Application](https://github.com/Suyash73/FitHub2.0.git)
-
-- 🌱 I’m currently learning **DSA,Kotlin and PHP**
+- 🌱 I’m currently learning **Databricks, Azure Databricks, Data Catalog, Unity Catalog, Data Governance, Data Warehousing, Data Engineering, Data Analytics, Business Analytics, ETL, ELT, PySpark, SQL, Python, Power BI, Azure Data Factory (ADF), Delta Lake, Data Modeling, Machine Learning, Generative AI, REST APIs, Git, GitHub, Linux,  DSA, Kotlin, PHP, Android Development, Agile.**
 
 - 📫 How to reach me **gargparth812@gmail.com**
 
