@@ -58,7 +58,33 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/numpy" alt="numpy" width="40" height="40"/>
 </a>
-
+<a href="https://scipy.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/scipy" alt="scipy" width="40" height="40"/>
+</a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/plotly" alt="plotly" width="40" height="40"/>
+</a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/googlecloud" alt="google cloud" width="40" height="40"/>
+</a>
+<a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/googlegemini" alt="google gemini" width="40" height="40"/>
+</a>
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/mlflow" alt="mlflow" width="40" height="40"/>
+</a>
+<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/langchain" alt="langgraph" width="40" height="40"/>
+</a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/streamlit" alt="streamlit" width="40" height="40"/>
+</a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="40" height="40"/>
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi" width="40" height="40"/>
+</a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/postgresql" alt="postgresql" width="40" height="40"/>
 </a>
