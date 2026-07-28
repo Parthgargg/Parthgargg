@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
 </a>
 
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
@@ -66,7 +66,7 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/>
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/visualstudiocode" alt="vscode" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/>
 </a>
 
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
