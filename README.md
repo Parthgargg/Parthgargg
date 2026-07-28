@@ -24,8 +24,8 @@
   <img src="https://cdn.simpleicons.org/databricks" alt="databricks" width="40" height="40"/>
 </a>
 
-<a href="https://azure.microsoft.com/en-us/products/data-factory" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/microsoftazure" alt="azure" width="40" height="40"/>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" width="40" height="40"/>
 </a>
 
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
@@ -37,9 +37,8 @@
 </a>
 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/powerbi" alt="power bi" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 </a>
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/git" alt="git" width="40" height="40"/>
 </a>
@@ -63,21 +62,11 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/postgresql" alt="postgresql" width="40" height="40"/>
 </a>
-
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/sqlite" alt="sqlite" width="40" height="40"/>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/>
 </a>
-
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/visualstudiocode" alt="vscode" width="40" height="40"/>
-</a>
-
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/intellijidea" alt="intellij idea" width="40" height="40"/>
-</a>
-
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/jira" alt="jira" width="40" height="40"/>
 </a>
 
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
